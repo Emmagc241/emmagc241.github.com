@@ -1,0 +1,6 @@
+<meta name="og:title" content="CV de Emmanuel Gutierrez">
+<meta name="og:url" content="http://uriel.me">
+		<meta name="og:site_name" content="Proyecto personlaes Emmanuel">
+		<meta name="og:type" content="website">
+		<meta name= "og:image" content="<url-imagen>">
+		
